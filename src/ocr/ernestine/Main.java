@@ -9,7 +9,7 @@ public class Main {
         Menu menu = new Menu();
         menu.displayAvailableMenu();
         Scanner sc = new Scanner(System.in);
-        int nb = sc.nextInt();
-        menu.displaySelectedMenu(nb);
+        String nb = sc.nextLine();
+        menu.displayCorrectNumber(nb);
     }
 }

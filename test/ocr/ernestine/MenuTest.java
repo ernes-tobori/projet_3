@@ -57,4 +57,10 @@ public class MenuTest {
         assertEquals("Vous avez saisi un nombre hors du menu \n", outContent.toString().replace("\r\n", "\n"));
     }
 
+    @Test
+    public void Given_LetterValue_When_DisplayFalseNumber_Then_DisplayCorrectQuestion () {
+        menu.displayCorrectNumber("a");
+        assertEquals("Saisissez un chiffre \n", outContent.toString().replace("\r\n", "\n"));
+    }
+
 }
