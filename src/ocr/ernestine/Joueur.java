@@ -13,6 +13,7 @@ public class Joueur {
     String key = "";
     String riddle = "";
     String computerKey = "";
+    int number;
 
     public String generateValue(int taille) {
         String result="";

@@ -1,5 +1,6 @@
 package ocr.ernestine;
 
+
 import java.util.Scanner;
 
 public class Main {
