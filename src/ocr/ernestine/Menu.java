@@ -30,6 +30,8 @@ public class Menu {
 
     public void displaySelectedMenu(int nbMenu) {
         ActionJoueurInterface joueur;
+
+
         switch (nbMenu) {
             case 1 :
                 System.out.println("Vous avez choisi comme menu : Mode Challenger ");
@@ -61,11 +63,26 @@ public class Menu {
 
     public void displayCorrectNumber(String nb) {
         boolean isChoice=true;
+        String modeNumber=nb;
         while(isChoice) {
             try{
-                int number=Integer.parseInt(nb) ;
+                int number=Integer.parseInt(modeNumber) ;
                 this.displaySelectedMenu((number));
-                isChoice=false;
+                System.out.println("Que souhaiteriez-vous faire ? \n 1- Rejouer \n 2- Changer de mode, ou \n 3- Quitter le jeu");
+                Scanner   scReplay = new Scanner(System.in);
+               String nbReplay = scReplay.next();
+               boolean isContinu=Boolean.valueOf(nbReplay);
+                if("1".equals(nbReplay)){
+                    modeNumber=nb;
+                }else if ("2".equals(nbReplay)){
+                    System.out.println("Saisissez un mode");
+                    Scanner   sc = new Scanner(System.in);
+                    nb = sc.next();
+                }else{
+                    System.out.println("Au revoir et A bientôt");
+                    isChoice=false;
+                }
+
             }catch (NumberFormatException exe) {
                 System.out.println("Saisissez un chiffre");
                 Scanner   sc = new Scanner(System.in);
