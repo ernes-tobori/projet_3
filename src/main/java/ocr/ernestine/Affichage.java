@@ -5,7 +5,8 @@ public class Affichage {
     public static final String DEVINETTE_DE_LA_COMBINAISON_PAR_L_UTILISATEUR = "****** Devinette de la combinaison par l'utilisateur *****************************************************";
     public static final String COMPARAISON_DES_DEUX_COMBINAISONS="comparaison des deux combinaisons ";
     public static final String BRAVO_UTILISATEUR="Bravo Utilisateur, vous avez trouvé la clé de l'ordinateur :";
-    public static final String DESOLE_UTILISATEUR="Désolé Utilisateur, vous avez perdu! ";
+    public static final String DESOLE_UTILISATEUR="Utilisateur, vous avez épuisé toutes vos tentatives de jeu restantes ! ";
+    public static final String DESOLE_ORDINATEUR="Ordinateur, vous avez épuisé toutes vos tentatives de jeu restantes ! ";
     public static final String MODE_CHALLENGER="\nMODE CHALLENGER \nC'est au tour de l'utilisateur de jouer !!!";
     public static final String COMMENTAIRE="**********************************************************************************************************";
     public static final String UTILISATEUR_SAISIT_TAILLE="****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***";
@@ -32,6 +33,7 @@ public class Affichage {
     public static final String PETIT_RAPPEL_CLE_ORDINATEUR ="Petit rappel de la clé de l'ordinateur : ";
     public static final String PETIT_RAPPEL_CLE_UTILISATEUR ="Petit rappel de la clé de l'utilisateur : ";
     public static final String INDICES="Indices : ";
+    public static final String BRAVO_ORDINATEUR="Bravo Ordinateur, vous avez trouvé la clé de l'Utilisateur :";
 
     //Textes qui sont dans la classe Duel
     public static final String DEBUT_DEVINETTE= "****** Debut de la devinette de la combinaison par l'ordinateur ****";
