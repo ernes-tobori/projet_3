@@ -1,0 +1,1149 @@
+2019-12-15 14:33:52 INFO  Main:18 - Entrée de la classe main
+2019-12-15 14:33:52 INFO  Menu:16 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:33:52 INFO  Menu:17 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:33:52 INFO  Menu:18 - 1- Mode Challenger
+2019-12-15 14:33:52 INFO  Menu:19 - 2- Mode Defenseur
+2019-12-15 14:33:52 INFO  Menu:20 - 3- Mode Duel
+2019-12-15 14:33:52 INFO  Menu:21 - 4- Quitter le jeu
+2019-12-15 14:33:52 INFO  Menu:22 - Veuillez saisir le nombre correspondant à votre choix
+2019-12-15 14:38:22 INFO  Main:18 - Entrée de la classe main
+2019-12-15 14:38:22 INFO  Menu:16 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:38:22 INFO  Menu:17 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:38:22 INFO  Menu:18 - 1- Mode Challenger
+2019-12-15 14:38:22 INFO  Menu:19 - 2- Mode Defenseur
+2019-12-15 14:38:22 INFO  Menu:20 - 3- Mode Duel
+2019-12-15 14:38:22 INFO  Menu:21 - 4- Quitter le jeu
+2019-12-15 14:38:22 INFO  Menu:22 - Veuillez saisir le nombre correspondant à votre choix
+2019-12-15 14:38:44 INFO  Main:24 - Menu :  1
+2019-12-15 14:38:44 INFO  Menu:36 - Vous avez choisi comme menu : Mode Challenger 
+2019-12-15 14:38:45 INFO  Challenger:15 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:38:45 INFO  Challenger:16 - **********************************************************************************************************
+2019-12-15 14:38:45 INFO  Challenger:17 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:38:45 INFO  Challenger:18 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:38:45 INFO  Challenger:19 - **********************************************************************************************************
+2019-12-15 14:38:45 INFO  Challenger:20 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la taille de la combinaison souhaitée
+2019-12-15 14:38:57 INFO  Challenger:37 - La clé générée par l'ordinateur : 39
+2019-12-15 14:38:57 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:38:57 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:38:57 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:38:57 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:38:57 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:38:57 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:38:57 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:10 INFO  Challenger:72 - comparaison des deux combinaisons : ++
+2019-12-15 14:39:10 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:39:10 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:39:10 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:39:10 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:39:10 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:39:10 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:39:10 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:21 INFO  Challenger:72 - comparaison des deux combinaisons : =+
+2019-12-15 14:39:21 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:39:21 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:39:21 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:39:21 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:39:21 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:39:21 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:39:21 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:29 INFO  Challenger:72 - comparaison des deux combinaisons : =+
+2019-12-15 14:39:29 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:39:29 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:39:29 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:39:29 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:39:29 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:39:29 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:39:29 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:32 INFO  Challenger:72 - comparaison des deux combinaisons : =+
+2019-12-15 14:39:32 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:39:32 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:39:32 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:39:32 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:39:32 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:39:32 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:39:32 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:34 INFO  Challenger:72 - comparaison des deux combinaisons : =+
+2019-12-15 14:39:34 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:39:34 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:39:34 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:39:34 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:39:34 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:39:34 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:39:34 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:38 INFO  Challenger:72 - comparaison des deux combinaisons : =+
+2019-12-15 14:39:38 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:39:38 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:39:38 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:39:38 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:39:38 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:39:38 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:39:38 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:41 INFO  Challenger:72 - comparaison des deux combinaisons : =+
+2019-12-15 14:39:41 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:39:41 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:39:41 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:39:41 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:39:41 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:39:41 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 39
+2019-12-15 14:39:41 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:39:43 INFO  Challenger:68 - comparaison des deux combinaisons : ==
+2019-12-15 14:39:43 INFO  Challenger:69 - Bravo vous avez trouvé la clé de l'ordinateur : 39 !
+2019-12-15 14:39:43 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-15 14:39:51 INFO  Menu:105 - Saisissez un mode
+2019-12-15 14:39:53 INFO  Menu:46 - Vous avez choisi comme menu : Mode Defenseur 
+2019-12-15 14:39:53 INFO  Defenseur:11 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:39:53 INFO  Defenseur:12 - **********************************************************************************************************
+2019-12-15 14:39:53 INFO  Defenseur:13 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:39:53 INFO  Defenseur:14 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:39:53 INFO  Defenseur:15 - **********************************************************************************************************
+2019-12-15 14:39:53 INFO  Defenseur:16 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la clé à deviner :
+2019-12-15 14:40:04 INFO  Defenseur:24 - 
+Mr l'utilisateur, vous avez saisi une clé de taille : 2
+2019-12-15 14:40:04 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:40:04 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:40:04 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:40:04 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:40:04 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:40:04 INFO  Defenseur:45 - 
+Tableau max n°0 :[9, 9]
+2019-12-15 14:40:04 INFO  Defenseur:46 - Tableau min n°0 :[0, 0]
+2019-12-15 14:40:04 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 46
+2019-12-15 14:40:04 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:40:04 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 46
+2019-12-15 14:40:04 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:40:27 INFO  Defenseur:69 - 
+Tableau max n°0 :[3, 5]
+2019-12-15 14:40:27 INFO  Defenseur:70 - Tableau min n°0 :[0, 0]
+2019-12-15 14:40:27 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:40:27 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:40:27 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:40:27 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:40:27 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:40:27 INFO  Defenseur:45 - 
+Tableau max n°1 :[3, 5]
+2019-12-15 14:40:27 INFO  Defenseur:46 - Tableau min n°1 :[0, 0]
+2019-12-15 14:40:27 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 23
+2019-12-15 14:40:27 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:40:27 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 23
+2019-12-15 14:40:27 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:40:37 INFO  Defenseur:69 - 
+Tableau max n°1 :[2, 2]
+2019-12-15 14:40:37 INFO  Defenseur:70 - Tableau min n°1 :[2, 0]
+2019-12-15 14:40:37 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:40:37 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:40:37 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:40:37 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:40:37 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:40:37 INFO  Defenseur:45 - 
+Tableau max n°2 :[2, 2]
+2019-12-15 14:40:37 INFO  Defenseur:46 - Tableau min n°2 :[2, 0]
+2019-12-15 14:40:37 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 21
+2019-12-15 14:40:37 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:40:37 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 21
+2019-12-15 14:40:37 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:40:48 INFO  Defenseur:69 - 
+Tableau max n°2 :[2, 2]
+2019-12-15 14:40:48 INFO  Defenseur:70 - Tableau min n°2 :[2, 2]
+2019-12-15 14:40:48 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:40:48 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:40:48 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:40:48 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:40:48 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:40:48 INFO  Defenseur:45 - 
+Tableau max n°3 :[2, 2]
+2019-12-15 14:40:48 INFO  Defenseur:46 - Tableau min n°3 :[2, 2]
+2019-12-15 14:40:48 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 22
+2019-12-15 14:40:48 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:40:48 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 22
+2019-12-15 14:40:48 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:40:51 INFO  Defenseur:64 - 
+Bravo Ordinateur! Vous avez trouvé la clé de l'utilisateur
+2019-12-15 14:40:51 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-15 14:40:56 INFO  Menu:105 - Saisissez un mode
+2019-12-15 14:41:01 INFO  Menu:56 - Vous avez choisi comme menu : Mode Duel 
+2019-12-15 14:41:01 INFO  Challenger:15 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:41:01 INFO  Challenger:16 - **********************************************************************************************************
+2019-12-15 14:41:01 INFO  Challenger:17 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:41:01 INFO  Challenger:18 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:41:01 INFO  Challenger:19 - **********************************************************************************************************
+2019-12-15 14:41:01 INFO  Challenger:20 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la taille de la combinaison souhaitée
+2019-12-15 14:41:11 INFO  Challenger:37 - La clé générée par l'ordinateur : 55
+2019-12-15 14:41:11 INFO  Defenseur:11 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:41:11 INFO  Defenseur:12 - **********************************************************************************************************
+2019-12-15 14:41:11 INFO  Defenseur:13 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:41:11 INFO  Defenseur:14 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:41:11 INFO  Defenseur:15 - **********************************************************************************************************
+2019-12-15 14:41:11 INFO  Defenseur:16 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la clé à deviner :
+2019-12-15 14:41:21 INFO  Defenseur:24 - 
+Mr l'utilisateur, vous avez saisi une clé de taille : 2
+2019-12-15 14:41:21 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:41:21 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:41:21 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:41:21 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:41:21 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:41:21 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 55
+2019-12-15 14:41:21 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:41:32 INFO  Challenger:72 - comparaison des deux combinaisons : ++
+2019-12-15 14:41:32 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:41:32 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:41:32 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:41:32 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:41:32 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:41:32 INFO  Defenseur:45 - 
+Tableau max n°0 :[9, 9]
+2019-12-15 14:41:32 INFO  Defenseur:46 - Tableau min n°0 :[0, 0]
+2019-12-15 14:41:32 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 75
+2019-12-15 14:41:32 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:41:32 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 75
+2019-12-15 14:41:32 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:44:00 INFO  Defenseur:69 - 
+Tableau max n°0 :[6, 4]
+2019-12-15 14:44:00 INFO  Defenseur:70 - Tableau min n°0 :[0, 0]
+2019-12-15 14:44:00 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:44:00 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:44:00 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:44:00 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:44:00 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:44:00 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 55
+2019-12-15 14:44:00 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:44:11 INFO  Challenger:72 - comparaison des deux combinaisons : ++
+2019-12-15 14:44:11 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:44:11 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:44:11 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:44:11 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:44:11 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:44:11 INFO  Defenseur:45 - 
+Tableau max n°1 :[6, 4]
+2019-12-15 14:44:11 INFO  Defenseur:46 - Tableau min n°1 :[0, 0]
+2019-12-15 14:44:11 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 31
+2019-12-15 14:44:11 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:44:11 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 31
+2019-12-15 14:44:11 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:44:19 INFO  Defenseur:69 - 
+Tableau max n°1 :[2, 4]
+2019-12-15 14:44:19 INFO  Defenseur:70 - Tableau min n°1 :[0, 2]
+2019-12-15 14:44:19 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:44:19 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:44:19 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:44:19 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:44:19 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:44:19 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 55
+2019-12-15 14:44:19 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:44:21 INFO  Challenger:72 - comparaison des deux combinaisons : ++
+2019-12-15 14:44:21 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:44:21 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:44:21 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:44:21 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:44:21 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:44:21 INFO  Defenseur:45 - 
+Tableau max n°2 :[2, 4]
+2019-12-15 14:44:21 INFO  Defenseur:46 - Tableau min n°2 :[0, 2]
+2019-12-15 14:44:21 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 24
+2019-12-15 14:44:21 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:44:21 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 24
+2019-12-15 14:44:21 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:44:25 INFO  Defenseur:69 - 
+Tableau max n°2 :[2, 3]
+2019-12-15 14:44:25 INFO  Defenseur:70 - Tableau min n°2 :[2, 2]
+2019-12-15 14:44:25 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:44:25 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:44:25 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:44:25 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:44:25 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:44:25 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 55
+2019-12-15 14:44:25 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:44:33 INFO  Challenger:72 - comparaison des deux combinaisons : =-
+2019-12-15 14:44:33 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:44:33 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:44:33 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:44:33 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:44:33 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:44:33 INFO  Defenseur:45 - 
+Tableau max n°3 :[2, 3]
+2019-12-15 14:44:33 INFO  Defenseur:46 - Tableau min n°3 :[2, 2]
+2019-12-15 14:44:33 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 22
+2019-12-15 14:44:33 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:44:33 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 22
+2019-12-15 14:44:33 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:44:38 INFO  Defenseur:64 - 
+Bravo Ordinateur! Vous avez trouvé la clé de l'utilisateur
+2019-12-15 14:44:38 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-15 14:44:48 INFO  Menu:109 - Au revoir et A bientôt
+2019-12-15 14:44:48 INFO  Main:26 - Fin de la classe main
+2019-12-15 14:45:06 INFO  Main:18 - Entrée de la classe main
+2019-12-15 14:45:06 INFO  Menu:16 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:45:06 INFO  Menu:17 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:45:06 INFO  Menu:18 - 1- Mode Challenger
+2019-12-15 14:45:06 INFO  Menu:19 - 2- Mode Defenseur
+2019-12-15 14:45:06 INFO  Menu:20 - 3- Mode Duel
+2019-12-15 14:45:06 INFO  Menu:21 - 4- Quitter le jeu
+2019-12-15 14:45:06 INFO  Menu:22 - Veuillez saisir le nombre correspondant à votre choix
+2019-12-15 14:46:20 INFO  Main:18 - Entrée de la classe main
+2019-12-15 14:46:20 INFO  Menu:16 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:46:20 INFO  Menu:17 - Nous vous proposons 4 Choix possibles
+2019-12-15 14:46:20 INFO  Menu:18 - 1- Mode Challenger
+2019-12-15 14:46:20 INFO  Menu:19 - 2- Mode Defenseur
+2019-12-15 14:46:20 INFO  Menu:20 - 3- Mode Duel
+2019-12-15 14:46:20 INFO  Menu:21 - 4- Quitter le jeu
+2019-12-15 14:46:20 INFO  Menu:22 - Veuillez saisir le nombre correspondant à votre choix
+2019-12-15 14:46:24 INFO  Main:24 - Menu :  3
+2019-12-15 14:46:24 INFO  Menu:56 - Vous avez choisi comme menu : Mode Duel 
+2019-12-15 14:46:24 INFO  Challenger:15 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:46:24 INFO  Challenger:16 - **********************************************************************************************************
+2019-12-15 14:46:24 INFO  Challenger:17 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:46:24 INFO  Challenger:18 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:46:24 INFO  Challenger:19 - **********************************************************************************************************
+2019-12-15 14:46:24 INFO  Challenger:20 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la taille de la combinaison souhaitée
+2019-12-15 14:46:29 INFO  Challenger:37 - La clé générée par l'ordinateur : 18
+2019-12-15 14:46:29 INFO  Defenseur:11 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:46:29 INFO  Defenseur:12 - **********************************************************************************************************
+2019-12-15 14:46:29 INFO  Defenseur:13 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:46:29 INFO  Defenseur:14 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:46:29 INFO  Defenseur:15 - **********************************************************************************************************
+2019-12-15 14:46:29 INFO  Defenseur:16 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la clé à deviner :
+2019-12-15 14:46:33 INFO  Defenseur:24 - 
+Mr l'utilisateur, vous avez saisi une clé de taille : 2
+2019-12-15 14:46:33 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:46:33 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:46:33 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:46:33 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:46:33 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:46:33 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 18
+2019-12-15 14:46:33 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:46:46 INFO  Challenger:72 - comparaison des deux combinaisons : -=
+2019-12-15 14:46:46 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:46:46 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:46:46 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:46:46 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:46:46 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:46:46 INFO  Defenseur:45 - 
+Tableau max n°0 :[9, 9]
+2019-12-15 14:46:46 INFO  Defenseur:46 - Tableau min n°0 :[0, 0]
+2019-12-15 14:46:46 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 74
+2019-12-15 14:46:46 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:46:46 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 74
+2019-12-15 14:46:46 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:46:52 INFO  Defenseur:69 - 
+Tableau max n°0 :[6, 3]
+2019-12-15 14:46:52 INFO  Defenseur:70 - Tableau min n°0 :[0, 0]
+2019-12-15 14:46:52 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:46:52 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:46:52 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:46:52 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:46:52 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:46:52 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 18
+2019-12-15 14:46:52 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:47:01 INFO  Challenger:72 - comparaison des deux combinaisons : -=
+2019-12-15 14:47:01 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-15 14:47:01 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-15 14:47:01 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-15 14:47:01 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-15 14:47:01 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-15 14:47:01 INFO  Defenseur:45 - 
+Tableau max n°1 :[6, 3]
+2019-12-15 14:47:01 INFO  Defenseur:46 - Tableau min n°1 :[0, 0]
+2019-12-15 14:47:01 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 42
+2019-12-15 14:47:01 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-15 14:47:01 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 42
+2019-12-15 14:47:01 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-15 14:47:05 INFO  Defenseur:69 - 
+Tableau max n°1 :[3, 2]
+2019-12-15 14:47:05 INFO  Defenseur:70 - Tableau min n°1 :[0, 2]
+2019-12-15 14:47:05 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-15 14:47:05 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-15 14:47:05 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-15 14:47:05 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-15 14:47:05 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-15 14:47:05 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 18
+2019-12-15 14:47:05 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-15 14:47:08 INFO  Challenger:68 - comparaison des deux combinaisons : ==
+2019-12-15 14:47:08 INFO  Challenger:69 - Bravo vous avez trouvé la clé de l'ordinateur : 18 !
+2019-12-15 14:47:08 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-21 14:12:26 INFO  Main:12 - Entrée de la classe main
+2019-12-21 14:12:26 INFO  Menu:16 - Nous vous proposons 4 Choix possibles
+2019-12-21 14:12:26 INFO  Menu:17 - Nous vous proposons 4 Choix possibles
+2019-12-21 14:12:26 INFO  Menu:18 - 1- Mode Challenger
+2019-12-21 14:12:26 INFO  Menu:19 - 2- Mode Defenseur
+2019-12-21 14:12:26 INFO  Menu:20 - 3- Mode Duel
+2019-12-21 14:12:26 INFO  Menu:21 - 4- Quitter le jeu
+2019-12-21 14:12:26 INFO  Menu:22 - Veuillez saisir le nombre correspondant à votre choix
+2019-12-21 14:12:38 INFO  Main:18 - Menu :  1
+2019-12-21 14:12:38 INFO  Menu:36 - Vous avez choisi comme menu : Mode Challenger 
+2019-12-21 14:12:49 INFO  Challenger:25 - Taille : 2
+2019-12-21 14:12:49 INFO  Challenger:40 - La clé générée par l'ordinateur : 31
+2019-12-21 14:12:49 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:12:49 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:12:49 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:12:49 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:12:49 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:12:49 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 31
+2019-12-21 14:12:49 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:13:02 INFO  Challenger:75 - comparaison des deux combinaisons : +-
+2019-12-21 14:13:02 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:13:02 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:13:02 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:13:02 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:13:02 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:13:02 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 31
+2019-12-21 14:13:02 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:13:20 INFO  Challenger:75 - comparaison des deux combinaisons : =+
+2019-12-21 14:13:20 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:13:20 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:13:20 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:13:20 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:13:20 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:13:20 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 31
+2019-12-21 14:13:20 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:13:31 INFO  Challenger:71 - comparaison des deux combinaisons : ==
+2019-12-21 14:13:31 INFO  Challenger:72 - Bravo Utilisateur, vous avez trouvé la clé de l'ordinateur : 31 !
+2019-12-21 14:13:31 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-21 14:13:45 INFO  Menu:105 - Saisissez un mode
+2019-12-21 14:13:46 INFO  Menu:46 - Vous avez choisi comme menu : Mode Defenseur 
+2019-12-21 14:13:46 INFO  Defenseur:11 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:13:46 INFO  Defenseur:12 - **********************************************************************************************************
+2019-12-21 14:13:46 INFO  Defenseur:13 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:13:46 INFO  Defenseur:14 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:13:46 INFO  Defenseur:15 - **********************************************************************************************************
+2019-12-21 14:13:46 INFO  Defenseur:16 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la clé à deviner :
+2019-12-21 14:13:57 INFO  Defenseur:24 - 
+Mr l'utilisateur, vous avez saisi une clé de taille : 2
+2019-12-21 14:13:57 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:13:57 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:13:57 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:13:57 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:13:57 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:13:57 INFO  Defenseur:45 - 
+Tableau max n°0 :[9, 9]
+2019-12-21 14:13:57 INFO  Defenseur:46 - Tableau min n°0 :[0, 0]
+2019-12-21 14:13:57 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 18
+2019-12-21 14:13:57 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:13:57 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 18
+2019-12-21 14:13:57 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:14:24 INFO  Defenseur:69 - 
+Tableau max n°0 :[9, 7]
+2019-12-21 14:14:24 INFO  Defenseur:70 - Tableau min n°0 :[2, 0]
+2019-12-21 14:14:24 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:14:24 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:14:24 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:14:24 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:14:24 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:14:24 INFO  Defenseur:45 - 
+Tableau max n°1 :[9, 7]
+2019-12-21 14:14:24 INFO  Defenseur:46 - Tableau min n°1 :[2, 0]
+2019-12-21 14:14:24 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 31
+2019-12-21 14:14:24 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:14:24 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 31
+2019-12-21 14:14:24 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:14:32 INFO  Defenseur:69 - 
+Tableau max n°1 :[2, 7]
+2019-12-21 14:14:32 INFO  Defenseur:70 - Tableau min n°1 :[2, 2]
+2019-12-21 14:14:32 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:14:32 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:14:32 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:14:32 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:14:32 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:14:32 INFO  Defenseur:45 - 
+Tableau max n°2 :[2, 7]
+2019-12-21 14:14:32 INFO  Defenseur:46 - Tableau min n°2 :[2, 2]
+2019-12-21 14:14:32 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 22
+2019-12-21 14:14:32 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:14:32 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 22
+2019-12-21 14:14:32 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:14:34 INFO  Defenseur:64 - 
+Bravo Ordinateur! Vous avez trouvé la clé de l'utilisateur
+2019-12-21 14:14:34 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-21 14:14:50 INFO  Menu:105 - Saisissez un mode
+2019-12-21 14:14:51 INFO  Menu:56 - Vous avez choisi comme menu : Mode Duel 
+2019-12-21 14:15:04 INFO  Challenger:25 - Taille : 2
+2019-12-21 14:15:04 INFO  Challenger:40 - La clé générée par l'ordinateur : 79
+2019-12-21 14:15:04 INFO  Defenseur:11 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:15:04 INFO  Defenseur:12 - **********************************************************************************************************
+2019-12-21 14:15:04 INFO  Defenseur:13 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:15:04 INFO  Defenseur:14 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:15:04 INFO  Defenseur:15 - **********************************************************************************************************
+2019-12-21 14:15:04 INFO  Defenseur:16 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la clé à deviner :
+2019-12-21 14:15:10 INFO  Defenseur:24 - 
+Mr l'utilisateur, vous avez saisi une clé de taille : 2
+2019-12-21 14:15:10 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:15:10 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:15:10 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:15:10 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:15:10 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:15:10 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 79
+2019-12-21 14:15:10 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:15:24 INFO  Challenger:75 - comparaison des deux combinaisons : ++
+2019-12-21 14:15:24 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:15:24 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:15:24 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:15:24 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:15:24 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:15:24 INFO  Defenseur:45 - 
+Tableau max n°0 :[9, 9]
+2019-12-21 14:15:24 INFO  Defenseur:46 - Tableau min n°0 :[0, 0]
+2019-12-21 14:15:24 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 96
+2019-12-21 14:15:24 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:15:24 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 96
+2019-12-21 14:15:24 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:26:45 INFO  Defenseur:69 - 
+Tableau max n°0 :[8, 5]
+2019-12-21 14:26:45 INFO  Defenseur:70 - Tableau min n°0 :[0, 0]
+2019-12-21 14:26:45 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:26:45 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:26:45 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:26:45 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:26:45 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:26:45 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 79
+2019-12-21 14:26:45 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:27:03 INFO  Challenger:75 - comparaison des deux combinaisons : ++
+2019-12-21 14:27:03 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:27:03 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:27:03 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:27:03 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:27:03 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:27:03 INFO  Defenseur:45 - 
+Tableau max n°1 :[8, 5]
+2019-12-21 14:27:03 INFO  Defenseur:46 - Tableau min n°1 :[0, 0]
+2019-12-21 14:27:03 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 50
+2019-12-21 14:27:03 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:27:03 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 50
+2019-12-21 14:27:03 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:27:07 INFO  Defenseur:69 - 
+Tableau max n°1 :[4, 5]
+2019-12-21 14:27:07 INFO  Defenseur:70 - Tableau min n°1 :[0, 1]
+2019-12-21 14:27:07 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:27:07 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:27:07 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:27:07 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:27:07 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:27:07 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 79
+2019-12-21 14:27:07 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:27:16 INFO  Challenger:75 - comparaison des deux combinaisons : ++
+2019-12-21 14:27:16 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:27:16 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:27:16 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:27:16 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:27:16 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:27:16 INFO  Defenseur:45 - 
+Tableau max n°2 :[4, 5]
+2019-12-21 14:27:16 INFO  Defenseur:46 - Tableau min n°2 :[0, 1]
+2019-12-21 14:27:16 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 04
+2019-12-21 14:27:16 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:27:16 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 04
+2019-12-21 14:27:16 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:27:22 INFO  Defenseur:69 - 
+Tableau max n°2 :[4, 3]
+2019-12-21 14:27:22 INFO  Defenseur:70 - Tableau min n°2 :[1, 1]
+2019-12-21 14:27:22 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:27:22 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:27:22 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:27:22 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:27:22 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:27:22 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 79
+2019-12-21 14:27:22 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:27:33 INFO  Challenger:75 - comparaison des deux combinaisons : =+
+2019-12-21 14:27:33 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:27:33 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:27:33 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:27:33 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:27:33 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:27:33 INFO  Defenseur:45 - 
+Tableau max n°3 :[4, 3]
+2019-12-21 14:27:33 INFO  Defenseur:46 - Tableau min n°3 :[1, 1]
+2019-12-21 14:27:33 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 43
+2019-12-21 14:27:33 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:27:33 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 43
+2019-12-21 14:27:33 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:27:37 INFO  Defenseur:69 - 
+Tableau max n°3 :[3, 2]
+2019-12-21 14:27:37 INFO  Defenseur:70 - Tableau min n°3 :[1, 1]
+2019-12-21 14:27:37 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:27:37 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:27:37 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:27:37 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:27:37 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:27:37 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 79
+2019-12-21 14:27:37 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:27:43 INFO  Challenger:71 - comparaison des deux combinaisons : ==
+2019-12-21 14:27:43 INFO  Challenger:72 - Bravo Utilisateur, vous avez trouvé la clé de l'ordinateur : 79 !
+2019-12-21 14:27:43 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-21 14:27:47 INFO  Menu:105 - Saisissez un mode
+2019-12-21 14:27:48 INFO  Menu:56 - Vous avez choisi comme menu : Mode Duel 
+2019-12-21 14:27:54 INFO  Challenger:25 - Taille : 2
+2019-12-21 14:27:54 INFO  Challenger:40 - La clé générée par l'ordinateur : 64
+2019-12-21 14:27:54 INFO  Defenseur:11 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:27:54 INFO  Defenseur:12 - **********************************************************************************************************
+2019-12-21 14:27:54 INFO  Defenseur:13 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:27:54 INFO  Defenseur:14 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:27:54 INFO  Defenseur:15 - **********************************************************************************************************
+2019-12-21 14:27:54 INFO  Defenseur:16 - 
+Bonjour
+Je suis l'ordinateur : Veuillez saisir la clé à deviner :
+2019-12-21 14:28:00 INFO  Defenseur:24 - 
+Mr l'utilisateur, vous avez saisi une clé de taille : 2
+2019-12-21 14:28:00 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:28:00 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:28:00 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:28:00 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:28:00 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:28:00 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 64
+2019-12-21 14:28:00 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:28:07 INFO  Challenger:75 - comparaison des deux combinaisons : +-
+2019-12-21 14:28:07 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:28:07 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:28:07 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:28:07 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:28:07 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:28:07 INFO  Defenseur:45 - 
+Tableau max n°0 :[9, 9]
+2019-12-21 14:28:07 INFO  Defenseur:46 - Tableau min n°0 :[0, 0]
+2019-12-21 14:28:07 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 52
+2019-12-21 14:28:07 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:28:07 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 52
+2019-12-21 14:28:07 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:28:10 INFO  Defenseur:69 - 
+Tableau max n°0 :[4, 2]
+2019-12-21 14:28:10 INFO  Defenseur:70 - Tableau min n°0 :[0, 2]
+2019-12-21 14:28:10 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:28:10 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:28:10 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:28:10 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:28:10 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:28:10 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 64
+2019-12-21 14:28:10 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:28:35 INFO  Challenger:75 - comparaison des deux combinaisons : =-
+2019-12-21 14:28:35 INFO  Defenseur:39 - 
+MODE DEFENSEUR 
+C'est au tour de l'ordinateur de jouer !!!
+2019-12-21 14:28:35 INFO  Defenseur:40 - **********************************************************************************************************
+2019-12-21 14:28:35 INFO  Defenseur:41 - ****** Devinette de la combinaison par l'ordinateur ******************************************************
+2019-12-21 14:28:35 INFO  Defenseur:42 - ****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******
+2019-12-21 14:28:35 INFO  Defenseur:43 - **********************************************************************************************************
+2019-12-21 14:28:35 INFO  Defenseur:45 - 
+Tableau max n°1 :[4, 2]
+2019-12-21 14:28:35 INFO  Defenseur:46 - Tableau min n°1 :[0, 2]
+2019-12-21 14:28:35 INFO  Defenseur:47 - Je suis l'ordinateur, je vous propose cette combinaison de 2 chiffres : 32
+2019-12-21 14:28:35 INFO  Defenseur:57 - 
+Veuillez me donner quelques indices afin de me rapprocher du résultat de l'utilisateur!
+2019-12-21 14:28:35 INFO  Defenseur:58 - Petit rappel de la clé de l'ordinateur : 32
+2019-12-21 14:28:35 INFO  Defenseur:59 - Petit rappel de la clé de l'utilisateur : 22
+2019-12-21 14:28:42 INFO  Defenseur:69 - 
+Tableau max n°1 :[2, 2]
+2019-12-21 14:28:42 INFO  Defenseur:70 - Tableau min n°1 :[0, 2]
+2019-12-21 14:28:42 INFO  Joueur:159 - 
+MODE CHALLENGER 
+C'est au tour de l'utilisateur de jouer !!!
+2019-12-21 14:28:42 INFO  Joueur:160 - **********************************************************************************************************
+2019-12-21 14:28:42 INFO  Joueur:161 - ****** Devinette de la combinaison par l'utilisateur *****************************************************
+2019-12-21 14:28:42 INFO  Joueur:162 - ****** L'utilisateur saisit la taille de la combinaison et l'ordinateur génère la combinaison à deviner***
+2019-12-21 14:28:42 INFO  Joueur:163 - **********************************************************************************************************
+2019-12-21 14:28:42 INFO  Joueur:165 - 
+Petit rappel de la clé de l'ordinateur : 64
+2019-12-21 14:28:42 INFO  Joueur:166 - 
+Veuillez deviner la clé de l'ordinateur : 
+
+2019-12-21 14:28:46 INFO  Challenger:71 - comparaison des deux combinaisons : ==
+2019-12-21 14:28:46 INFO  Challenger:72 - Bravo Utilisateur, vous avez trouvé la clé de l'ordinateur : 64 !
+2019-12-21 14:28:46 INFO  Menu:98 - Que souhaiteriez-vous faire maintenant ? 
+ 1- Rejouer 
+ 2- Changer de mode, ou 
+ 3- Quitter le jeu
+2019-12-21 22:30:59 INFO  Main:12 - Entrée de la classe main
+2019-12-21 22:31:48 INFO  Main:12 - Entrée de la classe main
+2019-12-21 22:32:04 INFO  Main:18 - Menu :  1
+2019-12-21 22:32:22 INFO  Challenger:25 - Taille : 2
+2019-12-21 22:32:22 INFO  Challenger:41 - La clé générée par l'ordinateur : 61
+2019-12-21 22:32:42 INFO  Joueur:205 - Clé devinée : 61
+2019-12-21 22:33:04 INFO  Menu:106 - Numéro du mode : 2
+2019-12-21 22:33:18 INFO  Defenseur:19 - Clé : 22
+2019-12-21 22:33:30 INFO  Defenseur:63 - Indices : --
+2019-12-21 22:33:34 INFO  Defenseur:63 - Indices : --
+2019-12-21 22:33:38 INFO  Defenseur:63 - Indices : -=
+2019-12-21 22:33:43 INFO  Defenseur:63 - Indices : -=
+2019-12-21 22:33:47 INFO  Defenseur:63 - Indices : +=
+2019-12-21 22:33:51 INFO  Defenseur:63 - Indices : +=
+2019-12-21 22:33:58 INFO  Defenseur:63 - Indices : ==
+2019-12-21 22:34:26 INFO  Menu:106 - Numéro du mode : 3
+2019-12-21 22:34:33 INFO  Challenger:25 - Taille : 2
+2019-12-21 22:34:33 INFO  Challenger:41 - La clé générée par l'ordinateur : 37
+2019-12-21 22:34:40 INFO  Defenseur:19 - Clé : 22
+2019-12-21 22:34:54 INFO  Joueur:205 - Clé devinée : 55
+2019-12-21 22:35:06 INFO  Defenseur:63 - Indices : --
+2019-12-21 22:35:11 INFO  Joueur:205 - Clé devinée : 44
+2019-12-21 22:35:23 INFO  Defenseur:63 - Indices : +-
+2019-12-21 22:35:28 INFO  Joueur:205 - Clé devinée : 33
+2019-12-21 22:36:13 INFO  Defenseur:63 - Indices : -+
+2019-12-21 22:36:33 INFO  Joueur:205 - Clé devinée : 34
+2019-12-21 22:36:38 INFO  Defenseur:63 - Indices : ==
+2019-12-21 22:36:54 INFO  Main:21 - Fin de la classe main
+2019-12-22 18:26:27 INFO  Main:11 - Entrée de la classe main
+2019-12-22 18:26:32 INFO  Main:11 - Entrée de la classe main
+2019-12-22 18:26:39 INFO  Main:17 - Menu :  2
+2019-12-22 18:28:16 INFO  Main:11 - Entrée de la classe main
+2019-12-22 18:28:20 INFO  Main:17 - Menu :  2
+2019-12-23 19:23:55 INFO  Main:11 - Entrée de la classe main
+2019-12-23 19:23:58 INFO  Main:17 - Menu :  3
+2019-12-23 19:24:02 INFO  Challenger:25 - Taille : 2
+2019-12-23 19:24:02 INFO  Challenger:41 - La clé générée par l'ordinateur : 99
+2019-12-23 19:24:10 INFO  Defenseur:19 - Clé : 22
+2019-12-23 19:24:17 INFO  Joueur:205 - Clé devinée : 55
+2019-12-23 19:24:26 INFO  Defenseur:63 - Indices : --
+2019-12-23 19:24:28 INFO  Joueur:205 - Clé devinée : 99
+2019-12-23 19:30:00 INFO  Main:11 - Entrée de la classe main
+2019-12-23 19:30:04 INFO  Main:17 - Menu :  12
+2019-12-23 19:38:30 INFO  Main:11 - Entrée de la classe main
+2019-12-23 19:42:00 INFO  Main:17 - Menu :  32
+2019-12-23 19:45:29 INFO  Main:11 - Entrée de la classe main
+2019-12-23 19:45:42 INFO  Main:17 - Menu :  3
+2019-12-23 19:45:47 INFO  Challenger:25 - Taille : 2
+2019-12-23 19:45:47 INFO  Challenger:41 - La clé générée par l'ordinateur : 60
+2019-12-23 19:46:13 INFO  Defenseur:19 - Clé : 22
+2019-12-23 19:46:24 INFO  Joueur:205 - Clé devinée : 55
+2019-12-23 19:51:12 INFO  Main:11 - Entrée de la classe main
+2019-12-23 19:51:14 INFO  Main:17 - Menu :  3
+2019-12-23 19:51:21 INFO  Challenger:25 - Taille : 2
+2019-12-23 19:51:21 INFO  Challenger:41 - La clé générée par l'ordinateur : 00
+2019-12-23 19:51:25 INFO  Defenseur:19 - Clé : 22
+2019-12-23 20:14:30 INFO  Main:11 - Entrée de la classe main
+2019-12-23 20:14:32 INFO  Main:17 - Menu :  3
+2019-12-23 20:14:39 INFO  Challenger:25 - Taille : 2
+2019-12-23 20:14:39 INFO  Challenger:41 - La clé générée par l'ordinateur : 97
+2019-12-23 20:14:44 INFO  Defenseur:19 - Clé : 22
+2019-12-23 20:15:06 INFO  Joueur:205 - Clé devinée : 55
+2019-12-23 20:25:32 INFO  Main:11 - Entrée de la classe main
+2019-12-23 20:25:37 INFO  Main:17 - Menu :  3
+2019-12-26 23:24:46 INFO  Main:11 - Entrée de la classe main
+2019-12-26 23:24:50 INFO  Main:17 - Menu :  1
+2019-12-26 23:24:59 INFO  Challenger:25 - Taille : 2
+2019-12-26 23:24:59 INFO  Challenger:41 - La clé générée par l'ordinateur : 21
+2019-12-26 23:26:07 INFO  Joueur:209 - Clé devinée : 21
+2019-12-26 23:40:12 INFO  Main:11 - Entrée de la classe main
+2019-12-26 23:40:16 INFO  Main:17 - Menu :  1
+2019-12-26 23:40:20 INFO  Challenger:25 - Taille : 2
+2019-12-26 23:40:20 INFO  Challenger:41 - La clé générée par l'ordinateur : 91
+2019-12-26 23:40:50 INFO  Joueur:209 - Clé devinée : 55
+2019-12-26 23:40:53 INFO  Joueur:209 - Clé devinée : 66
+2019-12-26 23:41:15 INFO  Joueur:209 - Clé devinée : 77
+2019-12-26 23:41:18 INFO  Joueur:209 - Clé devinée : 88
+2019-12-26 23:41:24 INFO  Joueur:209 - Clé devinée : 88
+2019-12-26 23:41:27 INFO  Joueur:209 - Clé devinée : 99
+2019-12-26 23:42:59 INFO  Main:11 - Entrée de la classe main
+2019-12-26 23:43:03 INFO  Main:17 - Menu :  1
+2019-12-26 23:43:24 INFO  Challenger:25 - Taille : 2
+2019-12-26 23:43:24 INFO  Challenger:41 - La clé générée par l'ordinateur : 69
+2019-12-26 23:43:39 INFO  Joueur:209 - Clé devinée : 55
+2019-12-26 23:44:00 INFO  Joueur:209 - Clé devinée : 66
+2019-12-26 23:44:12 INFO  Joueur:209 - Clé devinée : 77
+2019-12-26 23:44:22 INFO  Joueur:209 - Clé devinée : 88
+2019-12-26 23:45:17 INFO  Joueur:209 - Clé devinée : 55
+2019-12-26 23:45:19 INFO  Joueur:209 - Clé devinée : 66
+2019-12-26 23:45:48 INFO  Main:11 - Entrée de la classe main
+2019-12-26 23:45:54 INFO  Main:17 - Menu :  1
+2019-12-26 23:45:57 INFO  Challenger:25 - Taille : 2
+2019-12-26 23:45:57 INFO  Challenger:41 - La clé générée par l'ordinateur : 14
+2019-12-26 23:46:08 INFO  Joueur:209 - Clé devinée : 00
+2019-12-26 23:46:11 INFO  Joueur:209 - Clé devinée : 11
+2019-12-26 23:46:13 INFO  Joueur:209 - Clé devinée : 22
+2019-12-26 23:46:16 INFO  Joueur:209 - Clé devinée : 33
+2019-12-26 23:54:40 INFO  Main:11 - Entrée de la classe main
+2019-12-26 23:54:45 INFO  Main:17 - Menu :  1
+2019-12-26 23:54:49 INFO  Challenger:30 - Taille : 4
+2019-12-26 23:54:49 INFO  Challenger:46 - La clé générée par l'ordinateur : 7111
+2019-12-27 00:00:30 INFO  Main:11 - Entrée de la classe main
+2019-12-27 00:00:34 INFO  Main:17 - Menu :  1
+2019-12-27 00:00:42 INFO  Challenger:30 - Taille : 4
+2019-12-27 00:00:42 INFO  Challenger:46 - La clé générée par l'ordinateur : 3447
+2019-12-27 00:00:57 INFO  Joueur:209 - Clé devinée : 5555
+2019-12-27 00:01:03 INFO  Joueur:209 - Clé devinée : 4444
+2019-12-27 00:01:06 INFO  Joueur:209 - Clé devinée : 3333
+2019-12-27 00:01:09 INFO  Joueur:209 - Clé devinée : 2222
+2019-12-28 22:41:38 INFO  Main:11 - Entrée de la classe main
+2019-12-28 22:41:46 INFO  Main:17 - Menu :  1
+2019-12-28 22:42:50 INFO  Challenger:30 - Taille : 2
+2019-12-28 22:42:50 INFO  Challenger:46 - La clé générée par l'ordinateur : 06
+2019-12-28 22:43:25 INFO  Joueur:209 - Clé devinée : 55
+2019-12-28 22:43:48 INFO  Joueur:209 - Clé devinée : 46
+2019-12-28 22:46:10 INFO  Joueur:209 - Clé devinée : 36
+2019-12-28 22:46:22 INFO  Joueur:209 - Clé devinée : 26
+2019-12-28 23:57:46 INFO  Main:11 - Entrée de la classe main
+2019-12-28 23:57:50 INFO  Main:17 - Menu :  3
+2019-12-28 23:57:59 INFO  Challenger:29 - Taille : 2
+2019-12-28 23:57:59 INFO  Challenger:45 - La clé générée par l'ordinateur : 48
+2019-12-28 23:58:02 INFO  Defenseur:19 - Clé : 22
+2019-12-28 23:58:23 INFO  Joueur:209 - Clé devinée : 22
+2019-12-28 23:58:45 INFO  Defenseur:63 - Indices : --
+2019-12-28 23:59:12 INFO  Joueur:209 - Clé devinée : 55
+2019-12-28 23:59:19 INFO  Defenseur:63 - Indices : -+
+2019-12-28 23:59:23 INFO  Joueur:209 - Clé devinée : 44
+2019-12-28 23:59:30 INFO  Defenseur:63 - Indices : +-
+2019-12-28 23:59:35 INFO  Joueur:209 - Clé devinée : 11
+2019-12-28 23:59:40 INFO  Defenseur:63 - Indices : +=
+2019-12-28 23:59:46 INFO  Joueur:209 - Clé devinée : 44
+2019-12-28 23:59:50 INFO  Defenseur:63 - Indices : -=
+2019-12-29 00:00:04 INFO  Joueur:209 - Clé devinée : 00
+2019-12-29 00:00:07 INFO  Defenseur:63 - Indices : ==
+2019-12-29 00:00:26 INFO  Menu:127 - Numéro du mode : 2
+2019-12-29 00:00:33 INFO  Defenseur:19 - Clé : 
+2019-12-29 00:00:43 INFO  Defenseur:63 - Indices : 0
+2019-12-29 00:00:46 INFO  Defenseur:63 - Indices : 0
+2019-12-29 00:00:54 INFO  Defenseur:63 - Indices : -
+2019-12-29 00:00:57 INFO  Defenseur:63 - Indices : 0
+2019-12-29 00:01:55 INFO  Main:20 - Fin de la classe main
+2019-12-29 00:16:38 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:16:41 INFO  Main:17 - Menu :  3
+2019-12-29 00:16:51 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:16:51 INFO  Challenger:45 - La clé générée par l'ordinateur : 44
+2019-12-29 00:17:03 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:17:15 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:17:23 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:20:01 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:20:08 INFO  Main:17 - Menu :  3
+2019-12-29 00:20:11 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:20:11 INFO  Challenger:45 - La clé générée par l'ordinateur : 95
+2019-12-29 00:20:16 INFO  Defenseur:19 - Clé : 55
+2019-12-29 00:21:08 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:21:12 INFO  Defenseur:63 - Indices : ++
+2019-12-29 00:22:39 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:22:41 INFO  Main:17 - Menu :  3
+2019-12-29 00:22:43 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:22:43 INFO  Challenger:45 - La clé générée par l'ordinateur : 34
+2019-12-29 00:22:45 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:22:49 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:22:53 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:23:43 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:23:47 INFO  Main:17 - Menu :  2
+2019-12-29 00:24:10 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:24:28 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:24:32 INFO  Defenseur:63 - Indices : =+
+2019-12-29 00:24:38 INFO  Defenseur:63 - Indices : =-
+2019-12-29 00:24:46 INFO  Defenseur:63 - Indices : =+
+2019-12-29 00:28:05 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:28:07 INFO  Main:17 - Menu :  3
+2019-12-29 00:28:10 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:28:10 INFO  Challenger:45 - La clé générée par l'ordinateur : 30
+2019-12-29 00:28:12 INFO  Defenseur:19 - Clé : 55
+2019-12-29 00:28:18 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:28:22 INFO  Defenseur:63 - Indices : ++
+2019-12-29 00:28:30 INFO  Joueur:215 - Clé devinée : 44
+2019-12-29 00:28:38 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:28:43 INFO  Joueur:215 - Clé devinée : 33
+2019-12-29 00:28:54 INFO  Defenseur:63 - Indices : =-
+2019-12-29 00:29:02 INFO  Joueur:215 - Clé devinée : 32
+2019-12-29 00:37:16 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:37:20 INFO  Main:17 - Menu :  3
+2019-12-29 00:37:23 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:37:23 INFO  Challenger:45 - La clé générée par l'ordinateur : 88
+2019-12-29 00:37:25 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:37:29 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:37:33 INFO  Defenseur:63 - Indices : =+*
+2019-12-29 00:37:37 INFO  Joueur:215 - Clé devinée : 66
+2019-12-29 00:37:41 INFO  Defenseur:63 - Indices : =-
+2019-12-29 00:37:45 INFO  Joueur:215 - Clé devinée : 77
+2019-12-29 00:37:48 INFO  Defenseur:63 - Indices : ==
+2019-12-29 00:37:58 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:37:58 INFO  Challenger:45 - La clé générée par l'ordinateur : 01
+2019-12-29 00:38:00 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:38:01 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:38:06 INFO  Defenseur:63 - Indices : -+
+2019-12-29 00:38:09 INFO  Joueur:215 - Clé devinée : 44
+2019-12-29 00:38:12 INFO  Defenseur:63 - Indices : =-
+2019-12-29 00:38:16 INFO  Joueur:215 - Clé devinée : 33
+2019-12-29 00:38:19 INFO  Defenseur:63 - Indices : =+
+2019-12-29 00:38:22 INFO  Joueur:215 - Clé devinée : 22
+2019-12-29 00:41:24 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:41:26 INFO  Main:17 - Menu :  3
+2019-12-29 00:41:29 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:41:29 INFO  Challenger:45 - La clé générée par l'ordinateur : 78
+2019-12-29 00:41:30 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:41:31 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:41:35 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:41:38 INFO  Joueur:215 - Clé devinée : 66
+2019-12-29 00:41:41 INFO  Defenseur:63 - Indices : =-
+2019-12-29 00:41:43 INFO  Joueur:215 - Clé devinée : 77
+2019-12-29 00:41:46 INFO  Defenseur:63 - Indices : ==
+2019-12-29 00:41:52 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:41:52 INFO  Challenger:45 - La clé générée par l'ordinateur : 02
+2019-12-29 00:41:52 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:41:53 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:41:58 INFO  Defenseur:63 - Indices : -=
+2019-12-29 00:42:03 INFO  Joueur:215 - Clé devinée : 33
+2019-12-29 00:42:08 INFO  Defenseur:63 - Indices : +=
+2019-12-29 00:42:13 INFO  Joueur:215 - Clé devinée : 11
+2019-12-29 00:42:16 INFO  Defenseur:63 - Indices : ==
+2019-12-29 00:42:19 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:42:19 INFO  Challenger:45 - La clé générée par l'ordinateur : 92
+2019-12-29 00:42:20 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:42:20 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:42:25 INFO  Defenseur:63 - Indices : ==
+2019-12-29 00:42:28 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:42:28 INFO  Challenger:45 - La clé générée par l'ordinateur : 50
+2019-12-29 00:42:32 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:42:34 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:42:38 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:42:47 INFO  Joueur:215 - Clé devinée : 53
+2019-12-29 00:42:54 INFO  Defenseur:63 - Indices : =-
+2019-12-29 00:42:57 INFO  Joueur:215 - Clé devinée : 52
+2019-12-29 00:43:02 INFO  Defenseur:63 - Indices : =-
+2019-12-29 00:43:06 INFO  Joueur:215 - Clé devinée : 51
+2019-12-29 00:45:45 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:45:47 INFO  Main:17 - Menu :  3
+2019-12-29 00:45:49 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:45:49 INFO  Challenger:45 - La clé générée par l'ordinateur : 85
+2019-12-29 00:45:50 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:45:51 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:45:58 INFO  Defenseur:63 - Indices : -+
+2019-12-29 00:46:05 INFO  Joueur:215 - Clé devinée : 65
+2019-12-29 00:46:10 INFO  Defenseur:63 - Indices : +-
+2019-12-29 00:46:39 INFO  Main:11 - Entrée de la classe main
+2019-12-29 00:46:41 INFO  Main:17 - Menu :  3
+2019-12-29 00:46:50 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:46:50 INFO  Challenger:45 - La clé générée par l'ordinateur : 37
+2019-12-29 00:47:01 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:47:05 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:47:10 INFO  Defenseur:63 - Indices : +-
+2019-12-29 00:47:17 INFO  Joueur:215 - Clé devinée : 36
+2019-12-29 00:47:21 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:47:28 INFO  Joueur:215 - Clé devinée : 37
+2019-12-29 00:47:38 INFO  Challenger:29 - Taille : 2
+2019-12-29 00:47:38 INFO  Challenger:45 - La clé générée par l'ordinateur : 00
+2019-12-29 00:47:38 INFO  Defenseur:19 - Clé : 22
+2019-12-29 00:47:39 INFO  Joueur:215 - Clé devinée : 55
+2019-12-29 00:47:42 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:47:45 INFO  Joueur:215 - Clé devinée : 33
+2019-12-29 00:47:49 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:47:51 INFO  Joueur:215 - Clé devinée : 11
+2019-12-29 00:47:55 INFO  Defenseur:63 - Indices : --
+2019-12-29 00:48:00 INFO  Joueur:215 - Clé devinée : 00
