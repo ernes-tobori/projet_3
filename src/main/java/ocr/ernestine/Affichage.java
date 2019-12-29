@@ -21,7 +21,7 @@ public class Affichage {
     public static final String MODE_DEFENSEUR="\nMODE DEFENSEUR \nC'est au tour de l'ordinateur de jouer !!!";
     public static final String DEVINETTE_DE_LA_COMBINAISON="****** Devinette de la combinaison par l'ordinateur ******************************************************";
     public static final String ORDINATEUR_ENREGISTRE="****** L'ordinateur enregistre la taille de la combinaison et devine la clé saisie par l'utilisateur******";
-    public static final String BONJOUR_UTILISATEUR_DEVINEZ_CLE="\nBonjour\nJe suis l'ordinateur : Veuillez saisir la clé à deviner :";
+    public static final String BONJOUR_UTILISATEUR_CLE_A_DEVINER ="\nBonjour\nJe suis l'ordinateur : Veuillez saisir la clé à deviner :";
     public static final String UTILISATEUR="\nMr l'utilisateur, vous avez saisi une clé de taille : ";
     public static final String DEVINETTE_COMBINAISON="****** Devinette de la combinaison par l'ordinateur ******************************************************";
     public static final String NUMERO_MAX="\nTableau max n°";
