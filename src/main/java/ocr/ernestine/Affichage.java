@@ -66,7 +66,6 @@ public class Affichage {
     public static final String GUILLEMETS ="";
     public static final String MESSAGE_ERREUR_MOINS ="Utilisateur, vous ne pouvez pas saisir l'indice '-' à la position : ";
     public static final String MESSAGE_ERREUR_PLUS ="Utilisateur, vous ne pouvez pas saisir l'indice '+' à la position : ";
-    public static final String MESSAGE_ERREUR_EGAL ="Utilisateur, vous ne pouvez pas saisir l'indice '=' à la position : ";
 
     //Textes qui sont dans la classe Main
     public static final String TEXTE_DEBUT ="Entrée de la classe main";
