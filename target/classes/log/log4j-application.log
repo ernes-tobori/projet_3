@@ -278,3 +278,39 @@
 2019-12-30 22:35:02 INFO  Defenseur:62 - Indices : =+
 2019-12-30 22:35:12 INFO  Defenseur:62 - Indices : --
 2019-12-30 22:35:12 ERROR Joueur:102 - Utilisateur, vous ne pouvez pas saisir l'indice '-' à la position : 1
+2019-12-30 22:36:11 ERROR Menu:141 - Saisissez des chiffres
+2019-12-31 09:21:21 INFO  Main:11 - Entrée de la classe main
+2019-12-31 09:21:26 INFO  Main:17 - Menu :  3
+2019-12-31 09:21:32 INFO  Challenger:29 - Taille : 2
+2019-12-31 09:21:32 INFO  Challenger:45 - La clé générée par l'ordinateur : 02
+2019-12-31 09:21:36 INFO  Defenseur:19 - Clé : 22
+2019-12-31 09:21:40 INFO  Joueur:227 - Clé devinée : 55
+2019-12-31 09:21:49 INFO  Defenseur:62 - Indices : --
+2019-12-31 09:21:53 INFO  Joueur:227 - Clé devinée : 33
+2019-12-31 09:21:57 INFO  Defenseur:62 - Indices : +-
+2019-12-31 09:22:01 INFO  Joueur:227 - Clé devinée : 11
+2019-12-31 09:22:06 INFO  Defenseur:62 - Indices : -+
+2019-12-31 09:22:11 INFO  Joueur:227 - Clé devinée : 02
+2020-01-07 12:28:18 INFO  Main:11 - Entrée de la classe main
+2020-01-07 12:28:22 INFO  Main:17 - Menu :  1
+2020-01-07 12:29:52 INFO  Challenger:29 - Taille : 2
+2020-01-07 12:29:52 INFO  Challenger:45 - La clé générée par l'ordinateur : 34
+2020-01-07 12:30:37 INFO  Joueur:227 - Clé devinée : 55
+2020-01-07 12:31:09 INFO  Joueur:227 - Clé devinée : 44
+2020-01-07 12:31:15 INFO  Joueur:227 - Clé devinée : 34
+2020-01-07 12:31:20 INFO  Main:20 - Fin de la classe main
+2020-01-07 12:31:31 INFO  Main:11 - Entrée de la classe main
+2020-01-07 12:31:35 INFO  Main:17 - Menu :  3
+2020-01-07 12:31:41 INFO  Challenger:29 - Taille : 2
+2020-01-07 12:31:41 INFO  Challenger:45 - La clé générée par l'ordinateur : 98
+2020-01-07 12:35:20 INFO  Defenseur:19 - Clé : 22
+2020-01-07 12:35:24 INFO  Joueur:227 - Clé devinée : 55
+2020-01-07 12:36:59 INFO  Defenseur:62 - Indices : +-
+2020-01-07 12:37:03 INFO  Joueur:227 - Clé devinée : 66
+2020-01-07 12:37:15 INFO  Defenseur:62 - Indices : --
+2020-01-07 12:37:19 INFO  Joueur:227 - Clé devinée : 77
+2020-01-07 12:37:34 INFO  Defenseur:62 - Indices : --
+2020-01-07 12:37:37 INFO  Joueur:227 - Clé devinée : 88
+2020-01-07 12:37:56 INFO  Defenseur:62 - Indices : --
+2020-01-07 12:37:56 ERROR Joueur:102 - Utilisateur, vous ne pouvez pas saisir l'indice '-' à la position : 1
+2020-01-07 12:38:02 INFO  Joueur:227 - Clé devinée : 88
